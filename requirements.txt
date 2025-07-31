@@ -1,9 +1,6 @@
-GridSearchCV
-SVC
-accuracy_score
-imread
+fastapi
+uvicorn
+httpx
 numpy
-os
-pickle
-resize
-train_test_split
+pillow
+tensorflow
