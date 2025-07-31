@@ -1,0 +1,9 @@
+GridSearchCV
+SVC
+accuracy_score
+imread
+numpy
+os
+pickle
+resize
+train_test_split
